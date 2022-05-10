@@ -1,0 +1,7 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_mouse_in_maze\Form1.h(656,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_mouse_in_maze\Form1.h(748,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_mouse_in_maze\Form1.h(743,8): warning C4101: 'pos': 未參考的區域變數
+C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_mouse_in_maze\Form1.h(458): warning C4715: 'CppCLRWinFormsProject::Form1::pop': 不是所有控制路徑都傳回值
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  110705013_沈昱宏_mouse_in_maze.vcxproj -> C:\Users\stanl\Desktop\資結作業\110705013_沈昱宏_mouse_in_maze\x64\Debug\110705013_沈昱宏_mouse_in_maze.exe
